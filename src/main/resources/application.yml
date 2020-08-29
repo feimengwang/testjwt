@@ -9,8 +9,8 @@ spring:
     name: TestJWt
   redis:
     port: 6739
-    host: 10.7.129.81
-    password: yeiD7tho
+    host: 127.0.0.1
+    password: root
     database: 8
 jwt:
   key: dGVzdGp3dHRlc3Rqd3R0ZXN0and0dGVzdGp3dHRlc3Rqd3R0ZXN0and0dGVzdGp3dHRlc3Rqd3R0ZXN0and0
